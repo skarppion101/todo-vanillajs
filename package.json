@@ -18,7 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "http-server": "0.12.3"
+    "http-server": "^14.1.0"
   },
   "bugs": {
     "url": "https://github.com/fauna-labs/todo-vanillajs/issues"
